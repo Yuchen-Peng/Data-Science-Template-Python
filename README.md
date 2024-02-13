@@ -8,3 +8,5 @@ You can create a new repository based on this template, which will inherit the s
 2. Above the file list, click Use this template.
 
 3. Select Create a new repository.
+
+![Using the template](images/template.png "Create a new repository")
