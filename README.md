@@ -1,11 +1,19 @@
-# Data-Science-Template-Python
+# Data Science Template Python
 
 [![Build Status](https://dev.azure.com/hpcodeway/MLWay/_apis/build/status/model-management/MLWay-Incubator.model-management-docs-template?repoName=MLWay-Incubator%2Fmodel-management-docs-template&branchName=main)](https://dev.azure.com/hpcodeway/MLWay/_build/latest?definitionId=18058&repoName=MLWay-Incubator%2Fmodel-management-docs-template&branchName=main)
 ![](https://img.shields.io/badge/Python-3.8-gree.svg)
 
 Maintained by [Yuchen Peng](https://github.com/Yuchen-Peng).
 
+- [Data Science Template Python](#data-science-template-python)
+  - [Description](#description)
+  - [Getting Started](#getting-started)
+  
+## Description
+
 This repo provides a code template for data science &amp; machine learning model development projects in Python. The file structure is optimized to keep code organzied as installable packages.
+
+## Getting Started
 
 You can create a new repository based on this template, which will inherit the same directory structure
 
