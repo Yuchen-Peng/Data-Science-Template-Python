@@ -8,12 +8,16 @@ Maintained by [Yuchen Peng](https://github.com/Yuchen-Peng).
 - [Data Science Template Python](#data-science-template-python)
   - [Description](#description)
   - [Getting Started](#getting-started)
-  
+    - [Creating a new repository](#creating-a-new-repository)
+    - [Setup deployment with Azure DevOps Pipeline](#setup-deployment-with-azure-devOps-pipeline)
+
 ## Description
 
 This repo provides a code template for data science &amp; machine learning model development projects in Python. The file structure is optimized to keep code organzied as installable packages.
 
 ## Getting Started
+
+### Creating a New Repository
 
 You can create a new repository based on this template, which will inherit the same directory structure
 
@@ -28,3 +32,5 @@ You can create a new repository based on this template, which will inherit the s
 4. On the next page to enter the repo information, you should see the option **Repository template** is set to use this repo. Once you are good with all the information, click **Create a new repository** and you are all done!
 
 ![Create a new repository](images/create_repo.png "Create a new repository")
+
+### Setup Deployment with Azure DevOps Pipeline
